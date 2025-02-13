@@ -41,7 +41,7 @@ This project analyzes supermarket sales data to uncover insights regarding custo
 - **Health & Beauty and Home & Lifestyle** categories have the highest sales.
 - **E-wallets** are the most preferred payment method.
 - **Branches in Yangon and Naypyitaw** generate higher revenue.
-- **There is a weak correlation** between unit price and quantity sold, indicating pricing changes might not significantly impact sales volume.
+- **There is a positive correlation** between unit price and quantity sold, indicating pricing changes significantly impact sales volume.
 - **Customer ratings are generally high**, indicating good service quality.
 
 ##  Recommendations
